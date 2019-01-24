@@ -15,4 +15,4 @@ def test_login():
 
     allure.attach("登录", "点击登录")
     print("点击登录")
-    assert 1
+    assert 0
